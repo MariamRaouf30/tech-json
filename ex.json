@@ -1,0 +1,19 @@
+{
+    "customers": [
+      {
+        "id": 1,
+        "name": "John",
+        "type": "Cyber Security"
+      },
+      {
+        "id": 2,
+        "name": "Jane",
+        "type": "AI and Machine Learning"
+      },
+      {
+        "id": 3,
+        "name": "Alex",
+        "type": "Automation"
+      }
+    ]
+  }  
